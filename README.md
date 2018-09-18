@@ -1,3 +1,4 @@
 # dosipic
 TP DEMO 8-)
-WITH - __[Krino](https://github.com/abdelkarim-Chaara)
+WITH -
+__[Krimo](https://github.com/abdelkarim-Chaara)
